@@ -1,5 +1,5 @@
 import createDataContext from './createDataContext';
-import jsonServer from '../api/jsonServer';
+// import jsonServer from '../api/jsonServer';
 
 const contactReducer = (state, action) => {
   switch (action.type) {
